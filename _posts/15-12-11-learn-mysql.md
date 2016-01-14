@@ -7,11 +7,9 @@ description: it's a long long way
 ---
 #mysql基本操作命令
 
-{% highlight shell %}
 bin/mysql -u root -p PW -h localhost -P 3306
 mysql -u root database < scripts.sql
 mysqldump -u root database > scripts.sql
-{% endhighlight %}
 
 mysql> show databases;
 mysql> use mysql;
