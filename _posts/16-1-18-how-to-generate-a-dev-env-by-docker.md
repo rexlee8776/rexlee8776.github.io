@@ -10,3 +10,6 @@ git config --global user.email "rexlee8776@gmail.com"
 git config --global core.editor vim
 ssh-keygen
 
+###submit image
+docker commit rex rexlee8776/evilittle:dev_env
+
