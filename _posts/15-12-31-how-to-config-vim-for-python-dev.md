@@ -26,6 +26,7 @@ git clone https://github.com/rkulla/pydiction.git
 ### taglist
 
 apt-get install vim-scripts
+
 vim-addons install taglist
 
 
@@ -33,11 +34,9 @@ vim-addons install taglist
 
 git clone https://github.com/rkulla/pydiction.git
 
-
 ### NERDTree
 
 git clone https://github.com/scrooloose/nerdtree.git
-
 
 ### AutoComplPop
 **install**
