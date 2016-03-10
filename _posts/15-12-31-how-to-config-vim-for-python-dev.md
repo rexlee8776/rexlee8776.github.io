@@ -14,7 +14,9 @@ description:
 mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 ```
+
 or
+
 ```
 git clone https://github.com/rkulla/pydiction.git
 ```
